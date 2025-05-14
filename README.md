@@ -1,7 +1,7 @@
 - 👋 Hi, I’m dan
 - 👀 I’m interested in coding 👨🏻‍💻 hacking and cyber security. 
 - 🌱 I’m currently learning javascript and react-native frameworks.
-- 📫 You can reach me via mail-
+- 📫 You can reach me via my email.
 - ⚡ Fun fact-
 
 <!---
