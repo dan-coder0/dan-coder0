@@ -1,6 +1,7 @@
-- 👋 Hi, I’m dan
-- 👀 I’m interested in coding 👨🏻‍💻 hacking and cyber security. 
-- 🌱 I’m currently learning javascript and react-native.
+- 👋 Hi, I’m Dhanuka aka dan
+- Undergraduate in Cyber security 
+- 👀 I’m interested in programming 👨🏻‍💻 & hacking
+- 🌱 Currently learning javascript and react-native.
 - 📫 You can reach me via my mail- dan.developer0@gmail.com
 - ⚡ Fun fact- love to learn something every second!
 
